@@ -1,0 +1,9 @@
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\entity\Vehicle.java
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\repository\VehicleRepository.java
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\ParkingLotApplication.java
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\config\DataInitializer.java
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\entity\Zone.java
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\repository\ParkingTicketRepository.java
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\entity\ParkingTicket.java
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\repository\ZoneRepository.java
+M:\JAVA_BACKEND\BTVN_moi\SS06\Ex1\src\main\java\com\example\parkinglot\enums\VehicleType.java
